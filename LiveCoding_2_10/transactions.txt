@@ -1,0 +1,21 @@
+20250523001, 255838, "Sleeping Beauties - Bill Clinton & James Patterson", 9.42, 2, 1.13, $18.84, 2025-05-23 22:12:53
+20250523001, 108479, "Malibu Rising - Renée Carlino", 11.77, 2, 1.41, $23.54, 2025-05-23 22:12:53
+20250523001, 463681, "Camino Island - Stephen King", 11.91, 1, 0.71, $11.91, 2025-05-23 22:12:53
+20250523001, 850609, "The Woman in the Window - Stephen King", 9.41, 1, 0.56, $9.41, 2025-05-23 22:12:53
+20250523001, 981991, "The President Is Missing - Laura Dave", 16.10, 2, 1.93, $32.20, 2025-05-23 22:12:53
+20250523006, 472766, "The Escape Artist - Stephen King", 9.11, 1, 0.55, $9.11, 2025-05-23 22:16:40
+20250523006, 940432, "Anxious People - Colleen Hoover", 13.91, 1, 0.83, $13.91, 2025-05-23 22:16:40
+20250523006, 822632, "Anxious People - Taylor Jenkins Reid", 10.06, 2, 1.21, $20.12, 2025-05-23 22:16:40
+20250523006, 375517, "The Silent Corner - Stephen King", 18.51, 1, 1.11, $18.51, 2025-05-23 22:16:40
+20250523006, 821287, "The Paris Library - Colleen Hoover", 17.65, 1, 1.06, $17.65, 2025-05-23 22:16:40
+20250523006, 255838, "Sleeping Beauties - Bill Clinton & James Patterson", 9.42, 1, 0.57, $9.42, 2025-05-23 22:16:40
+20250523006, 108479, "Malibu Rising - Renée Carlino", 11.77, 1, 0.71, $11.77, 2025-05-23 22:16:40
+20250523006, 463681, "Camino Island - Stephen King", 11.91, 1, 0.71, $11.91, 2025-05-23 22:16:40
+20250523006, 850609, "The Woman in the Window - Stephen King", 9.41, 1, 0.56, $9.41, 2025-05-23 22:16:40
+20250523006, 981991, "The President Is Missing - Laura Dave", 16.10, 1, 0.97, $16.10, 2025-05-23 22:16:40
+20250523016, 472766, "The Escape Artist - Stephen King", 9.11, 10, 5.47, $91.10, 2025-05-23 22:18:10
+20250523017, 472766, "The Escape Artist - Stephen King", 9.11, 10, 5.47, $91.10, 2025-05-23 22:18:31
+20250523018, 472766, "The Escape Artist - Stephen King", 9.11, 1, 0.55, $9.11, 2025-05-23 22:19:18
+20250523018, 940432, "Anxious People - Colleen Hoover", 13.91, 1, 0.83, $13.91, 2025-05-23 22:19:18
+20250523020, 940432, "Anxious People - Colleen Hoover", 13.91, 1, 0.83, $13.91, 2025-05-23 22:22:33
+20250523020, 940432, "Anxious People - Colleen Hoover", 13.91, 2, 1.67, $27.82, 2025-05-23 22:22:33

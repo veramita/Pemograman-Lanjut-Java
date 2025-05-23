@@ -1,0 +1,17 @@
+Laporan Penjualan:
+Mouse: 6 unit, Rp600000
+Keyboard: 4 unit, Rp1000000
+Monitor: 3 unit, Rp4500000
+Printer: 2 unit, Rp200000
+Mouse gaming: 1 unit, Rp300000
+Webcam: 4 unit, Rp400000
+Headset: 3 unit, Rp900000
+Lampu LED: 5 unit, Rp500000
+
+Produk paling laris: Mouse (6 unit)
+Produk dengan harga rata-rata tertinggi: Monitor (Rp1500000 per unit)
+
+Produk yang paling tidak laku:
+- Mouse gaming (1 unit)
+
+Total pendapatan toko: Rp8400000

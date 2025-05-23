@@ -1,0 +1,30 @@
+981991, "The President Is Missing - Laura Dave", 16.1
+850609, "The Woman in the Window - Stephen King", 9.41
+463681, "Camino Island - Stephen King", 11.91
+108479, "Malibu Rising - Renée Carlino", 11.77
+255838, "Sleeping Beauties - Bill Clinton & James Patterson", 9.42
+821287, "The Paris Library - Colleen Hoover", 17.65
+375517, "The Silent Corner - Stephen King", 18.51
+822632, "Anxious People - Taylor Jenkins Reid", 10.06
+940432, "Anxious People - Colleen Hoover", 13.91
+472766, "The Escape Artist - Stephen King", 9.11
+644692, "The Midnight Library - Dan Brown", 13.93
+180781, "The Last Thing He Told Me - A. J. Finn", 18.04
+591304, "Apples Never Fall - Fredrik Backman", 9.21
+560354, "The Seven Husbands of Evelyn Hugo - Stephen King", 13.36
+397487, "The Outsider - Dean Koontz", 15.11
+798428, "It Ends With Us - Jodi Picoult", 11.73
+782287, "The Late Show - Andy Weir", 13.79
+111974, "Sleeping Beauties - Colleen Hoover", 9.91
+212360, "Camino Island - Colleen Hoover", 13.77
+594225, "Ugly Love - Michael Connelly", 11.64
+705632, "Wish You Were Here - Andy Weir", 12.75
+461809, "The Late Show - Fredrik Backman", 13.62
+706011, "The Paper Palace - Renée Carlino", 14.21
+362739, "The Late Show - Dan Brown", 12.49
+799946, "The Lincoln Highway - Brad Meltzer", 12.67
+209005, "Camino Island - A. J. Finn", 14.14
+787726, "Project Hail Mary - Bill Clinton & James Patterson", 11.45
+373396, "The Seven Husbands of Evelyn Hugo - Taylor Jenkins Reid", 11.51
+897397, "Reminders of Him - A. J. Finn", 10.13
+21207, "Reminders of Him - Janet Skeslien Charles", 17.29
